@@ -195,11 +195,14 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|         1200:12         |          1200:01         |
+|         1201:34         |          1205:00         |
+|         1202:12         |          1206:00         |
+|         1203:34         |          1207:00         |
 
 #### Manual Calculations
 
-(Add your calculation here)
+![divition](https://github.com/user-attachments/assets/d9ae5387-6d66-4c29-9ec9-1fea862ebd67)
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
