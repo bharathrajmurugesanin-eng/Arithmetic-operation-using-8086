@@ -94,11 +94,15 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|         1200:12         |          1200:00         |
+|         1201:34         |          1205:00         |
+|         1202:12         |          1206:00         |
+|         1203:34         |                          |
 
 #### Manual Calculations
 
-(Add your calculation here)
+![subtraction](https://github.com/user-attachments/assets/7fb791e6-1c89-4e6a-a339-c126c8b47fc3)
+
 
 ---
 
